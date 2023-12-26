@@ -1,0 +1,16 @@
+Nifty 50,NSENifty
+Nifty Next 50
+Nifty 100,NSE100
+Nifty 200,NSE200
+Nifty 500,NSE500
+Nifty Midcap 50,NSEMidcap
+Nifty Auto,NSEAuto
+Nifty Bank
+Nifty Energy
+Nifty FMCG
+Nifty IT
+Nifty Metal
+Nifty MNC,NSEMNC
+Nifty Pharma
+Nifty50 Shariah, HAHAHAHAH
+Nifty50 USD,ADADADADD
